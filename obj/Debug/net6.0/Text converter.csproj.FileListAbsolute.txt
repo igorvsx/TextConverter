@@ -1,0 +1,17 @@
+C:\Users\Igor\source\repos\Text converter\Text converter\bin\Debug\net6.0\Text converter.exe
+C:\Users\Igor\source\repos\Text converter\Text converter\bin\Debug\net6.0\Text converter.deps.json
+C:\Users\Igor\source\repos\Text converter\Text converter\bin\Debug\net6.0\Text converter.runtimeconfig.json
+C:\Users\Igor\source\repos\Text converter\Text converter\bin\Debug\net6.0\Text converter.dll
+C:\Users\Igor\source\repos\Text converter\Text converter\bin\Debug\net6.0\Text converter.pdb
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\Text converter.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\Text converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\Text converter.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\Text converter.AssemblyInfo.cs
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\Text converter.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\Text converter.dll
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\refint\Text converter.dll
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\Text converter.pdb
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\Text converter.genruntimeconfig.cache
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\ref\Text converter.dll
+C:\Users\Igor\source\repos\Text converter\Text converter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Igor\source\repos\Text converter\Text converter\obj\Debug\net6.0\Text converter.csproj.CopyComplete

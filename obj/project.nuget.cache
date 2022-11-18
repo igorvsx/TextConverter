@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "roc+kIYMImoAL0dpU/dsP2Oslo0NGEvyWmy8UlGYbPRzy6ZlBg2egEsuvVCLZeLEzLAW2u96BOaBFlJG8eKE4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\Text converter\\Text converter\\Text converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
